@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import "./page.css";
 
 export default function Home() {
